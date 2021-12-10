@@ -61,4 +61,4 @@
 //  alert("hi")
 // }
 // butn.onclick=callMe
-
+// var Canv=document.getElementById("canvasOne")
